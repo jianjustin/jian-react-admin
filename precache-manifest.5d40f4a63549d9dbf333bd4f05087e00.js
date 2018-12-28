@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/jian-react-admin/static/js/runtime~main.8044ead1.js"
   },
   {
-    "revision": "530a7ec6ee98eb7c928e",
-    "url": "/jian-react-admin/static/js/main.530a7ec6.chunk.js"
+    "revision": "2d4c9ee14461f0c3ee43",
+    "url": "/jian-react-admin/static/js/main.2d4c9ee1.chunk.js"
   },
   {
     "revision": "ccf5031e0261b90cceef",
     "url": "/jian-react-admin/static/js/1.ccf5031e.chunk.js"
   },
   {
-    "revision": "8fe86d9ab148d8e67209c7bc93785789",
+    "revision": "0991c819790250ddb0c79d083ddf3452",
     "url": "/jian-react-admin/index.html"
   }
 ];
